@@ -1,0 +1,22 @@
+# Arquivos de Log
+erros_agrotech.log
+
+# Arquivos JSON de dados (opcional, descomente se não quiser versionar os dados)
+# *.json
+
+# Arquivos de Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de configuração local (se você criar algum)
+# .env
+# config_local.py
+
+# Arquivos de IDEs
+.vscode/
+.idea/
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db

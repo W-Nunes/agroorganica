@@ -1,0 +1,27 @@
+--- Relatório de Rastreabilidade Simplificado ---
+
+ID Lote/Plantio: 14682004-ef4f-44e5-ac42-9706bde54eb4
+Cultura: Mandioca
+Status Atual: Planejado
+Data Prev. Colheita: 27/07/2025
+Data do Plantio: 18/04/2025
+------------------------------
+Dados do Produtor:
+  ID: 01
+  Nome: Renan Nunes
+  Localização: Ibiporã/PR
+  Associação: OsF1
+  Certificado Orgânico: Sim
+------------------------------
+Dados do Talhão de Origem:
+  ID Talhão (Produtor): T01
+  ID Único (Sistema): 0502e261-30f9-4207-8fa7-a2634911c5b9
+  Tamanho: 100 ha
+  Tipo de Solo: compostado
+------------------------------
+Histórico Recente de Insumos Orgânicos (Neste Talhão):
+  - 20/02/2025: Adubo Verde (50 Kg)
+------------------------------
+Observações do Plantio: {plantio_encontrado.get('observacoes', 'Nenhuma')}
+
+Relatório gerado em: 22/04/2025 22:05:45

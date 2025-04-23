@@ -1,0 +1,2 @@
+[2025-04-21 00:33:37] ERRO: Erro inesperado no menu de demandas (opção 2): module 'reports' has no attribute 'listar_demandas'
+[2025-04-21 02:47:38] ERRO: Erro ao fechar conexão Oracle: DPI-1080: connection was closed by ORA-3135
